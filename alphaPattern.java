@@ -1,4 +1,9 @@
 /*
+
+input = 7
+
+output =>
+
 A
 BB
 CCC

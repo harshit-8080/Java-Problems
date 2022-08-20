@@ -1,4 +1,8 @@
 /*
+input = 5
+
+ouput =>
+
 A
 BC
 CDE
