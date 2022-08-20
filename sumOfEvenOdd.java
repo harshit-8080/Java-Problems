@@ -30,7 +30,6 @@ public class Main {
             }
             
         }
-        
         System.out.println(sumEven+" "+sumOdd);
 
 	}
