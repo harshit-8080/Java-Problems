@@ -1,1 +1,1 @@
-# Java Problems :- Question and Solution
+Java Problems :- Questions and Solutions
